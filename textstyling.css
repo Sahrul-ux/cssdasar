@@ -3,3 +3,7 @@ h1 {
     font-size: 150px;
     color: #d76767;
 }
+
+p {
+    text-align: justify;
+}
