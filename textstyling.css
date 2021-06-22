@@ -2,7 +2,7 @@
 h1 {
     font-size: 150px;
     color: #d76767;
-    text-decoration: line-through;
+    text-transform: uppercase;
 }
 
 p {
