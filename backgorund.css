@@ -2,4 +2,6 @@ body {
     background-color: white;
     background-image: url(img/gradiend.png);
     background-repeat: no-repeat;
+    background-position: center;
+
 }
