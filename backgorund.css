@@ -1,4 +1,5 @@
 body {
-    background-color: lightblue;
-    background-image: url(img/subtlepattern.png);
+    background-color: white;
+    background-image: url(img/gradiend.png);
+    background-repeat: no-repeat;
 }
