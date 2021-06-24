@@ -15,3 +15,7 @@
 .hello:visited {
     color: crimson;
 }
+
+li:first-child a {
+    color: darkgreen;
+}
