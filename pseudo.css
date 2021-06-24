@@ -19,3 +19,7 @@
 li:first-child a {
     color: darkgreen;
 }
+
+li:last-child a {
+    color: darksalmon;
+}
