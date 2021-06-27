@@ -27,3 +27,11 @@ li:last-child a {
 li:nth-child(3n) a {
     color: fuchsia;
 }
+
+li:nth-child(even)a {
+    color: aqua;
+}
+
+li:nth-child(even) a:hover {
+    color: chartreuse;
+}
