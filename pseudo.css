@@ -35,3 +35,7 @@ li:nth-child(even)a {
 li:nth-child(even) a:hover {
     color: chartreuse;
 }
+
+p:first-of-type {
+    color: coral;
+}
